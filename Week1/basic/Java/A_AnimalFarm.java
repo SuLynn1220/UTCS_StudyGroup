@@ -14,7 +14,7 @@ public class A_AnimalFarm {
         }
 
         long res = mx;
-        for (int i = 0; i < influence.length; i++) {
+        for (int i = 0; i < n; i++) {
             if (influence[i] < mx) res += influence[i];
         }
         System.out.println(res);
