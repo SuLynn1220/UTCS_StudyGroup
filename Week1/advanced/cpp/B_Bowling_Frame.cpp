@@ -2,7 +2,6 @@
 using namespace std;
 
 void solve() {
-    int n; cin >> n;
     long long w, b; cin >> w >> b;
     long long tot = w + b;
     
