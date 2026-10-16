@@ -1,5 +1,5 @@
-# 1979. Find Greatest Common Divisor of Array
-### Solution 1
+# [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)
+## Solution 1
 >輾轉相除法
 ```java
 class Solution {
@@ -18,7 +18,7 @@ class Solution {
 }
 ```
 
-### Solution 2
+## Solution 2
 >迴圈窮舉
 ```java
 class Solution {
@@ -37,8 +37,8 @@ class Solution {
 }
 ```
 
-# 9. Palindrome Number
-### Solution 1
+# [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+## Solution 1
 >數學運算：透過 % 取餘數將數字翻轉
 ```java
 class Solution {
@@ -55,7 +55,7 @@ class Solution {
 }
 ```
 
-### Solution 2
+## Solution 2
 >字串翻轉
 ```java
 class Solution {
